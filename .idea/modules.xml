@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/basicsimulation.iml" filepath="$PROJECT_DIR$/.idea/modules/basicsimulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/basicsimulation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/basicsimulation-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learn-gatling-basic.basicsimulation.iml" filepath="$PROJECT_DIR$/.idea/modules/learn-gatling-basic.basicsimulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.basicsimulation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project.basicsimulation-build.iml" />
     </modules>
   </component>
 </project>
