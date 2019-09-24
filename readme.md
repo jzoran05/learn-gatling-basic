@@ -9,4 +9,8 @@
 - Project added to git repo
 
 # Story 2 - Test Azure Storage
-- Add Azure Java SDK Storage   
+- Add Azure Java Storage SDKs
+- Create Gatling extension (use as a reference: https://www.trivento.io/write-custom-protocol-for-gatling/)
+  - Protocol
+  - ActionBuilder
+  - Action
